@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "greenproducts",
+    "staging": "greenproducts-2e471"
+  },
+  "targets": {}
+}
